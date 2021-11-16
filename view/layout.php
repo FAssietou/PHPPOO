@@ -18,7 +18,7 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="http://127.0.0.1/PROJET_PHP_POO/">Accueil</a>
+          <a class="nav-link active" aria-current="page" href="http://127.0.0.1/xampp/PHPPOO/">Accueil</a>
         </li>
         <?php if(!isset($_SESSION['membre'])):?>
         <li class="nav-item">
